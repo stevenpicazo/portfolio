@@ -46,3 +46,20 @@
     width: 155px;
     object-fit: cover;
 }
+
+@media screen and (max-width: 767px) {
+    .skills {
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+    }
+  
+    .skill-container {
+      margin: 0 0 20px 0;
+    }
+  
+    .skill-img-row3 {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }

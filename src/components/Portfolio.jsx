@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Isotope from "isotope-layout";
 import ProjectDetailsModal from "./ProjectDetailsModal";
+import "./portfolio.css"
 
 import linkedmefeedgif from "../project-pictures/lmpreview.gif"
 import linkedmecomments from "../project-pictures/lmcomments.gif"

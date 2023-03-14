@@ -33,3 +33,26 @@
 .stevens-email:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 767px) {
+    .contact-text {
+      width: 100%;
+    }
+  
+    .contact-socials-container {
+      flex-direction: column;
+    }
+  
+    .contact-info-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .contact-info-container span {
+      margin-right: 5px;
+    }
+  
+    .stevens-email {
+      word-break: break-all;
+    }
+  }
