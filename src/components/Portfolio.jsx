@@ -55,7 +55,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
     {
       title: "HolyGrail - Grailed Clone",
       projectInfo:
-        "HolyGrail is an online clothing destination that emulates the design and functionality of Grailed. This is group project that was aimed to focus on e-commerce. Because we liked the style of Grailed, we chose to clone it",
+        "HolyGrail is an online clothing destination that emulates the design and functionality of Grailed. This is a group project that was aimed to focus on e-commerce. Because we liked the style of Grailed, we chose to clone it",
       // client: "Ruby Clinton",
       technologies: "JavaScript, React / Redux, Python, Flask, SQLAlchemy, HTML5, CSS3, PostgreSQL ",
       url: {
