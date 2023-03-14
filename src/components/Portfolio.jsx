@@ -7,7 +7,7 @@ import linkedmefeedgif from "../project-pictures/lmpreview.gif"
 import linkedmecomments from "../project-pictures/lmcomments.gif"
 import linkedmesplash from "../project-pictures/lmsplash.gif"
 
-import hgsplash from "../project-pictures/hgsplash.png"
+import hgsplash from "../project-pictures/hgsplash.gif"
 import hgshop from "../project-pictures/hgshop.gif"
 import hgprofile from "../project-pictures/hgprofile.gif"
 
