@@ -2,16 +2,16 @@ import React, { useEffect, useRef, useState } from "react";
 import Isotope from "isotope-layout";
 import ProjectDetailsModal from "./ProjectDetailsModal";
 
-// import linkedmefeedgif from "../project-pictures/lmpreview.gif"
-// import linkedmecomments from "../project-pictures/lmcomments.gif"
-// import linkedmesplash from "../project-pictures/lmsplash.gif"
+import linkedmefeedgif from "../project-pictures/lmpreview.gif"
+import linkedmecomments from "../project-pictures/lmcomments.gif"
+import linkedmesplash from "../project-pictures/lmsplash.gif"
 
-// import hgsplash from "../project-pictures/hgsplash.png"
-// // import hgshop from "../project-pictures/hgshop.gif"
-// // import hgprofile from "../project-pictures/hgprofile.gif"
+import hgsplash from "../project-pictures/hgsplash.png"
+import hgshop from "../project-pictures/hgshop.gif"
+import hgprofile from "../project-pictures/hgprofile.gif"
 
-// import vbsplash from "../project-pictures/vbsplash.gif"
-// // import vbspot from "../project-pictures/vbspot.gif"
+import vbsplash from "../project-pictures/vbsplash.gif"
+import vbspot from "../project-pictures/vbspot.gif"
 
 
 const Portfolio = ({ classicHeader, darkTheme }) => {
@@ -43,10 +43,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
         name2: "GitHub Repo",
         link2: "https://github.com/stevenpicazo/LinkedMe",
       },
-      // thumbImage: linkedmesplash,
+      thumbImage: linkedmesplash,
       sliderImages: [
-        // linkedmefeedgif,
-        // linkedmecomments
+        linkedmefeedgif,
+        linkedmecomments
       ],
       categories: [filters.linkedme],
     },
@@ -65,10 +65,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
         name2: "GitHub Repo",
         link2: "https://github.com/SA-Ark/HolyGrail",
       },
-      // thumbImage: hgsplash,
+      thumbImage: hgsplash,
       sliderImages: [
-        // hgshop,
-        // hgprofile,
+        hgshop,
+        hgprofile,
       ],
       categories: [filters.holygrail],
     },
@@ -87,10 +87,10 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
         name2: "GitHub Repo",
         link2: "https://github.com/stevenpicazo/VentureBnb",
       },
-      // thumbImage: vbsplash,
+      thumbImage: vbsplash,
       sliderImages: [
-        // vbspot,
-        // "images/projects/project-5.jpg",
+        vbspot,
+        "images/projects/project-5.jpg",
       ],
       categories: [filters.venturebnb],
     },
