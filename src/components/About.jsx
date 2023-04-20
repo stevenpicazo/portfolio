@@ -33,12 +33,11 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 "text-7 fw-600 mb-3 " + (darkTheme ? "text-white" : "")
               }
             >
-              I'm <span className="text-primary">Steven Picazo,</span> a Web
-              Developer
+              I'm <span className="text-primary">Steven Picazo,</span> a Full Stack Software Engineer
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
               Former operations manager turned software engineer, I'm transitioning from managing servers and
-              systems to coding amazing software. I'm thrilled to dive into React Native and leverage its power to
+              systems to coding amazing software. I'm thrilled to dive deeper into React and leverage its power to
               take my applications to the next level.
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
