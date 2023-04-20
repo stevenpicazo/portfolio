@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.552a0890.css",
-    "main.js": "/static/js/main.fb688883.js",
+    "main.js": "/static/js/main.2b589924.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/home.mp4": "/static/media/home.bb43f9730aa282f0f01d.mp4",
     "static/media/hgshop.gif": "/static/media/hgshop.b5b640faa738e79afe01.gif",
@@ -14,7 +14,7 @@
     "static/media/lmcomments.gif": "/static/media/lmcomments.c2bf6088a6f2a39e8cab.gif",
     "static/media/socketio.png": "/static/media/socketio.3ac56d05b70bd112a21c.png",
     "static/media/flask.png": "/static/media/flask.3635e49407d8f1f2a1ec.png",
-    "static/media/resume.pdf": "/static/media/resume.b6cf6a880238679bb93f.pdf",
+    "static/media/resume.pdf": "/static/media/resume.0fbef95aae7efa10f7e4.pdf",
     "static/media/sequelize.png": "/static/media/sequelize.844fb9182c0fbf41931d.png",
     "static/media/render.png": "/static/media/render.76f634c54cc5e6e36373.png",
     "static/media/sqlalchemy.png": "/static/media/sqlalchemy.f00ab8574f6d4b979740.png",
@@ -25,11 +25,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.552a0890.css.map": "/static/css/main.552a0890.css.map",
-    "main.fb688883.js.map": "/static/js/main.fb688883.js.map",
+    "main.2b589924.js.map": "/static/js/main.2b589924.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.552a0890.css",
-    "static/js/main.fb688883.js"
+    "static/js/main.2b589924.js"
   ]
 }
